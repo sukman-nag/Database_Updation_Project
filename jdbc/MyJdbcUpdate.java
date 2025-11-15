@@ -6,6 +6,7 @@ import java.sql.PreparedStatement;
 
 public class MyJdbcUpdate {
 	public static void main(String[] args) throws Exception {
+		//Yaha par hum data Update kar rahe hai jisme jaha bhi city naam markel hoga waha name update hakar Krishna ho jayega...
 		String name = "Krishna";
 		String city = "markle";
 		
@@ -28,3 +29,4 @@ public class MyJdbcUpdate {
 		 
 	}
 }
+
